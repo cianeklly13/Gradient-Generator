@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(to right, #ff0000, #ffff00);
+  text-align: center;
+  color: rgba(0, 0, 0, .7);
+  top: 20%;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+h1{
+  font:600 3.5em 'Raleway', sans-serif;
+  width: 100%;
+}
+h4{
+  font:900 1em 'Raleway', sans-serif;
+  letter-spacing: 0.4em;
+}
+h6{
+  font-size:1000;
+  letter-spacing: 0.3em;
+}
